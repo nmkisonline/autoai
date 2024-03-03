@@ -26,7 +26,7 @@ fi
 
 # Initialize variables
 
-API_KEY="ENTER YOUR API KEY HERE"
+API_KEY="sk-3MANgg2ud4ko1OBNuPhzT3BlbkFJrQEd2bdZtBMLE6zJY1OYE"
 
 MODE="text"
 
